@@ -1,0 +1,25 @@
+composite pictures
+- make selecdtion in A
+- select all in B, (ctl c)
+- go back to A, "edit, paste special, paste into..."
+
+gradient blend
+-open A
+-open B
+-create layer mask on B
+-select gradient tool
+-select black/while gradient
+-drag from middle to area to show of top image
+
+
+adding depth of field
+open image
+q for quick mask
+select gradient tool, double click on b/white
+select area in image to blur, drag toward blur
+red/trans will appear
+press q for quick mask again
+go to filter, blur, gaussian blur, adjust blur amount
+choose select, inverse
+apply unsharp to remaining image, 150 amount, 1 radius, 4 threshhold
+
